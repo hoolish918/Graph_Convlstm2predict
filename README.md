@@ -19,6 +19,6 @@ predict.py is to get the results, but it is too bad to read.
 
 del_datas0.csv is data that include the number of arrivals at each station along time.
 
-del_datas0.csv is data that include the number of departures at each station along time.
+del_datas1.csv is data that include the number of departures at each station along time.
 
 Metro_roadMap.csv is the metro train station road map expressed as adjacency matrix.
